@@ -1,0 +1,6 @@
+2024-03-14 21:44:49.839678-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRY" not found (this database is empty); SQL statement:
+MERGE INTO COUNTRY (ID, NAME) VALUES ('ed7cca38-bf8c-480d-9ee5-ee9e05386052','UNITED STATES') [42104-224]
+2024-03-14 23:07:26.496174-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRY" not found (this database is empty); SQL statement:
+MERGE INTO COUNTRY (ID, NAME) VALUES ('ed7cca38-bf8c-480d-9ee5-ee9e05386052','UNITED STATES') [42104-224]

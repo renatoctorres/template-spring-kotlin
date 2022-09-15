@@ -1,0 +1,14 @@
+performance:
+  active: true
+  SpreadOperator:
+    active: false
+formatting:
+  Indentation:
+    active: true
+    autoCorrect: true
+    indentSize: 4
+  NoWildcardImports:
+    active: true
+style:
+  MagicNumber:
+    active: false
