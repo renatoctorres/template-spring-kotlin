@@ -1,1 +1,1 @@
-rootProject.name = "payroll"
+rootProject.name = "template-spring-kotlin"
